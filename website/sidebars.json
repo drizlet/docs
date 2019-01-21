@@ -1,0 +1,15 @@
+{
+  "docs": {
+    "Getting Started": [
+      "doc_intro", 
+      "general/doc_general_working"
+    ],
+    "For merchants": [
+      "merchant/doc_merchant_working",
+      "merchant/doc_merchant_items"
+    ]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
